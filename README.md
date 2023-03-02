@@ -1,5 +1,5 @@
 <h1 align="center">Oiii, Eu sou o Pedro</h1>
-<h3 align="center">Entusiasta em tecnologia e programação. Qualquer dica ou sugestão séra sempre bem-vinda.</h3>
+<h3 align="center">Entusiasta em tecnologia e programação. Qualquer dica ou sugestão séra sempre bem-vinda.<br>Aprendendo junto com a comunidade.</h3>
 
 # 💫 Sobre mim:
 👯 Estou a procura de projetos iniciantes para poder contribuir<br>🌱 Estou aprendendo Python, Shell script e Git<br>⚡ Fun fact Amo a cor preta
