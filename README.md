@@ -9,7 +9,7 @@
 🌱 Estou aprendendo Python, Shell script e Git<br>👯 Estou a procura de projetos iniciantes para poder contribuir⚡ Fun fact Amo a cor preta
 
 ## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ppedra03) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ppedra3) 
 
 # 💻 Tech Stack :
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
