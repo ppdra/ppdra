@@ -5,6 +5,9 @@
 👯 Estou a procura de projetos iniciantes para poder contribuir<br>🌱 Estou aprendendo Python, Shell script e Git<br>⚡ Fun fact Amo a cor preta
 
 
+# 💫 Sobre mim:
+🌱 Estou aprendendo Python, Shell script e Git<br>👯 Estou a procura de projetos iniciantes para poder contribuir⚡ Fun fact Amo a cor preta
+
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ppedra03) 
 
